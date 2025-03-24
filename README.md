@@ -109,4 +109,4 @@ Include Classification Report here
 Include your sample input and output 
 
 ## RESULT
-Include your result here.
+Thus, We have developed a convolutional deep neural network for image classification to verify the response for new images.
