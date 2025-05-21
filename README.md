@@ -10,7 +10,7 @@ Include the Problem Statement and Dataset.The goal of this project is to develop
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/9910a8a0-0dfb-4579-8d74-c5d2012a13d8)
 
 ## DESIGN STEPS
 
